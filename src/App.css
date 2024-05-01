@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list {
+  border: 1px solid #ccc;
+  padding: 5px;
+  padding-top: 15px;
+}
