@@ -79,7 +79,7 @@ function App() {
           <h2>Heróis registrados:</h2>
           {heroList.map((hero, i) => (
             <div className="list" key={i}>
-              <p>O Herói de nome {hero.name} está no nível de {hero.level}</p>
+              <p>O Herói de nome: {hero.name} está no nível de: {hero.level}</p>
             </div>
           ))}
         </div>
